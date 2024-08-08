@@ -9,3 +9,8 @@ https://pysdr.org/content/frequency_domain.html#fft-implementation
 # venv
 `python -m venv .venv` - create venv
 `source .venv/bin/activate` - activate venv
+
+
+# GNU Radio
+`$ conda activate gnuradio`
+`$ gnuradio-companion`
